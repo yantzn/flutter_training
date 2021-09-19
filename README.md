@@ -1,5 +1,8 @@
 # training
 
+書籍『現場で使える Flutter開発入門』の書籍で掲載されている
+ソースコードを写経したプロジェクト
+
 A new Flutter project.
 
 ## Getting Started
