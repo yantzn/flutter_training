@@ -3,7 +3,7 @@ import 'package:training/sliver_app_bar_page.dart';
 
 import 'container_properties_page.dart';
 import 'grid_view_page.dart';
-//import 'responsive_design_page.dart';
+import 'responsive_design_page.dart';
 import 'shrinkable_footer_page.dart';
 import 'sliver_app_bar_page.dart';
 
@@ -68,7 +68,6 @@ class IndexPage extends StatelessWidget {
               child: const Text('スクロールで縮むフッター'),
             ),
           ),
-          /*
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 10),
             child: ElevatedButton(
@@ -82,7 +81,6 @@ class IndexPage extends StatelessWidget {
               child: const Text('レスポンシブデザイン'),
             ),
           ),
-          */
         ],
       ),
     );
